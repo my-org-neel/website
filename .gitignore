@@ -6,7 +6,7 @@ yarn-debug.log*
 yarn-error.log*
 lerna-debug.log*
 
-#MAC OS temp files
+#MAC OS temp files_again
 .DS_Store
 
 # Diagnostic reports (https://nodejs.org/api/report.html)
