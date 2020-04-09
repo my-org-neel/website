@@ -10,3 +10,6 @@ This is the change made locally
 Changes done!
 
 updating tag to latest commit 
+
+
+Adding getting started section into readme
